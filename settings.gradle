@@ -1,0 +1,3 @@
+include ':validations'
+include ':app'
+rootProject.name = "Validations"
